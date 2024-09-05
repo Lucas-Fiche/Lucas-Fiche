@@ -2,7 +2,11 @@
 
 🔭 Estou atualmente estudando Ciência da Computação no IDP e Análise e Desenvolvimento de Sistemas no IESB!
 <br>
+🚩 Computer Science Student | Systems Analysis and Development Student
+<br>
 🌱 Além disso, estou aprofundando meus conhecimentos em Java e C++.
+<br>
+🚩 I am deepening my knowledge in Java and C++.
 
 <!--
 **Lucas-Fiche/Lucas-Fiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
