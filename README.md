@@ -8,6 +8,7 @@
 🌱 Além disso, estou aprofundando meus conhecimentos em Java e C++.
 <br>
 🚩 I am deepening my knowledge in Java and C++.
+<br>
 
 <!--
 **Lucas-Fiche/Lucas-Fiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### GitHub Stats
 <div> 
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Fiche&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark"\>
   <img width="39%" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fiche&layout=compact&theme=dark"\>
@@ -31,7 +33,8 @@ Here are some ideas to get you started:
 
 ##
 
-<div style="display: inline_block"><br>
+### My Stack
+<div style="display: inline_block">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -44,6 +47,7 @@ Here are some ideas to get you started:
 
 ##
 
+### Connect with me!
 <div> 
   <a href = "mailto:lucas.fiche.u.borges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://instagram.com/lucas_fiche_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
