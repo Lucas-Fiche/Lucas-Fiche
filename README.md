@@ -1,4 +1,4 @@
-## Olá! Sou o Lucas Fiche!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=1000&color=72f08f&random=false&width=435&height=48&lines=Olá%2C+eu+sou+o+Lucas+Fiche!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%BB) 
 
 🔭 Estou atualmente estudando Ciência da Computação no IDP e Análise e Desenvolvimento de Sistemas no IESB!
 <br>
