@@ -29,15 +29,15 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
-
-
-
 ### Connect with me!
 <div> 
   <a href = "mailto:lucas.fiche.u.borges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://instagram.com/lucas_fiche_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/lucas-fiche-76aa24201"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+[![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](./curriculo.pdf)
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Fiche/Lucas-Fiche/output/github-contribution-grid-snake-dark.svg">
