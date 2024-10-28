@@ -1,13 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=25&pause=1000&color=72f08f&random=false&width=435&height=48&lines=Olá%2C+eu+sou+o+Lucas+Fiche!+%F0%9F%90%9F) 
 
-🔭 Estou atualmente estudando Ciência da Computação no IDP e Análise e Desenvolvimento de Sistemas no IESB!
+🔭 (🇧🇷) Estou atualmente estudando Ciência da Computação no IDP e Análise e Desenvolvimento de Sistemas no IESB!
 <br>
-🚩 Computer Science Student | Systems Analysis and Development Student
+🚩 (🇺🇸) Computer Science Student | Systems Analysis and Development Student
 <br>
 <br>
-🌱 Além disso, estou aprofundando meus conhecimentos em Java e C++.
+🌱 (🇧🇷) Além disso, estou aprofundando meus conhecimentos em Java e C++.
 <br>
-🚩 I am deepening my knowledge in Java and C++.
+🚩 (🇺🇸) I am deepening my knowledge in Java and C++.
 <br>
 
 ### GitHub Stats
