@@ -36,7 +36,10 @@
   <a href="https://www.linkedin.com/in/lucas-fiche-76aa24201"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-[![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](./curriculo.pdf)
+### Know me Better!
+<a href="./curriculo.pdf" download>
+  <img src="https://img.shields.io/badge/-📄%20Download%20CV-0A1172?style=for-the-badge&logoColor=white&labelColor=0A1172">
+</a>
 
 
 <picture align="center">
