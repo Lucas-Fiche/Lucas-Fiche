@@ -10,26 +10,10 @@
 🚩 I am deepening my knowledge in Java and C++.
 <br>
 
-<!--
-**Lucas-Fiche/Lucas-Fiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### GitHub Stats
-<div> 
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Fiche&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark"\> 
-  <img width="39%" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fiche&layout=compact&theme=dark"\>
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fiche&langs_count=8&theme=dark&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Fiche&theme=dark&hide_border=true)
 
 ##
 
