@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=25&pause=1000&color=72f08f&random=false&width=435&height=48&lines=Olá%2C+eu+sou+o+Lucas+Fiche!+%F0%9F%90%9F) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=25&pause=1000&color=008080&random=false&width=435&height=48&lines=Olá%2C+eu+sou+o+Lucas+Fiche!+%F0%9F%90%9F) 
 
 📚 (🇧🇷) Estou atualmente estudando Ciência da Computação no IDP e Análise e Desenvolvimento de Sistemas no IESB!
 <br>
@@ -37,7 +37,7 @@
 </div>
 
 ### Know me Better!
-<a href="./curriculo.pdf" download>
+<a href="./curriculo.pdf" download >
   <img src="https://img.shields.io/badge/-📄%20Download%20CV-0A1172?style=for-the-badge&logoColor=white&labelColor=0A1172">
 </a>
 
