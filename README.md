@@ -4,11 +4,6 @@
 <br>
 🚩 (🇺🇸) Computer Science Student | Systems Analysis and Development Student
 <br>
-<br>
-🧠 (🇧🇷) Além disso, estou aprofundando meus conhecimentos em Java e C++.
-<br>
-🚩 (🇺🇸) I am deepening my knowledge in Java and C++.
-<br>
 
 ### GitHub Stats
 
